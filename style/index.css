@@ -1,1 +1,59 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "isocp";
+}
+/*cabezera*/
+h1, h3{
+  font-family: "isocp";
+  color: white;
+}
 
+h1{
+  font-size: 75px;
+  height: 93px;
+}
+h3{
+  font-size: 30px;
+  height: 32px;
+}
+
+.t_logoblanco{
+  background: #235168;
+  display: -webkit-inline-box;
+  width: 100%;
+  height: 274px;
+}
+
+.logo{
+  height: 200px;
+}
+
+.logonegro{
+  background: #E6E7E8;
+  padding: 37px 57px;
+  border-bottom: 1px solid black;
+}
+
+.t_l *{
+  display: inline-block;
+}
+
+.t_l{
+  margin: 30px 450px;
+}
+
+.tyl{
+  position: relative;
+  bottom: 48px;
+  right: 83px;
+}
+
+.h3{
+  display: block;
+}
+
+.center{
+  text-align: center;
+}
+/*cabezera*/

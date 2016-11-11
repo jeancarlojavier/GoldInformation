@@ -9,6 +9,10 @@ h1, h3{
   color: white;
 }
 
+body{
+  background: #4B4B4D;
+}
+
 h1{
   font-size: 75px;
   height: 93px;

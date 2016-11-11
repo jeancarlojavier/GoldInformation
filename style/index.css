@@ -18,6 +18,10 @@ h3{
   height: 32px;
 }
 
+header{
+  height: 274px;
+}
+
 .t_logoblanco{
   background: #235168;
   display: -webkit-inline-box;
@@ -26,7 +30,12 @@ h3{
 }
 
 .logo{
-  height: 200px;
+  height: 199px;
+}
+
+.logoblanco{
+  position: relative;
+  right: 75px;
 }
 
 .logonegro{
@@ -40,13 +49,13 @@ h3{
 }
 
 .t_l{
-  margin: 30px 450px;
+  margin: 30px auto;
 }
 
 .tyl{
   position: relative;
   bottom: 48px;
-  right: 83px;
+  right: 203px;
 }
 
 .h3{
@@ -57,3 +66,57 @@ h3{
   text-align: center;
 }
 /*cabezera*/
+
+/*seccion cursos*/
+.cursos, .lecciones{
+  display: inline-block;
+}
+
+.contenido{
+  height: 700px;
+}
+
+.cursos{
+  width: 345px;
+  height: 100%;
+  background: #E6E7E8;
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+}
+
+.cursos div{
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.img_curso{
+  height: 100px;
+}
+
+.izquierda{
+  margin-right: 10px;
+}
+
+.derecha{
+  margin-left: 10px;
+}
+
+/*seccion cursos*/
+
+/*contenido*/
+
+.lecciones{
+  position: absolute;
+  width: 927px;
+  height: 690px;
+
+}
+
+.pagina{
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

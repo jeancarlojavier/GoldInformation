@@ -114,13 +114,14 @@ h2{
 
 .lecciones{
   position: absolute;
-  width: 1575px;
-  height: 690px;
-
+  width: 81%;
+  height: 70%;
 }
 
-.pagina{
-  width: 100%;
-  height: 100%;
-  border: 0;
+.logoblanco{
+  -webkit-transition: height 1s;
+}
+
+.logoblanco:hover{
+  height: 300px;
 }
